@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+div span {
+    font-size: 30px;
+}
+
+.btn-1 {
+    font-size: 20px;
+    margin: 0 10px;
+}
